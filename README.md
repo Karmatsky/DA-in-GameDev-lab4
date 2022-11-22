@@ -40,9 +40,13 @@
 
 ## Задание 1 В проекте Unity реализовать перцептрон, который умеет производить вычисления:
 + OR 
-+ AND 
-+ NAND 
+![Image alt](https://raw.githubusercontent.com/Karmatsky/DA-in-GameDev-lab4/main/OR.png)
++ AND
+![Image alt](https://raw.githubusercontent.com/Karmatsky/DA-in-GameDev-lab4/main/AND.png)
++ NAND
+![Image alt](https://raw.githubusercontent.com/Karmatsky/DA-in-GameDev-lab4/main/NAND.png)
 + XOR
+![Image alt](https://raw.githubusercontent.com/Karmatsky/DA-in-GameDev-lab4/main/XOR.png)
 
 ## Задание 2 Построить графики зависимости количества эпох от ошибки обучения. Указать от чего зависит необходимое количество эпох обучения
 
